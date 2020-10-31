@@ -7,4 +7,5 @@ A banking chatbot which uses watson assistant and Natural language understanding
 3. [IBM Watson Natural Language Understanding](https://www.ibm.com/watson/services/natural-language-understanding/): Analyze text to extract meta-data from content such as concepts, entities, keywords, categories, sentiment, emotion, relations, semantic roles, using natural language understanding.
 
 ## Demo
-[![Watch Demo](https://i.ytimg.com/an_webp/vVuPpN4rMm0/mqdefault_6s.webp?du=3000&sqp=CI2D8PwF&rs=AOn4CLDd4Ak1QC1kGrHe7x7ki-K3fc5ewg)](https://www.youtube.com/watch?v=vVuPpN4rMm0)
+
+<a href="https://www.youtube.com/watch?v=vVuPpN4rMm0&t=13s"><img src="https://i.ibb.co/HxY4Dcy/Screenshot-187.png" alt="Screenshot-187" border="0"></a>
